@@ -15,4 +15,4 @@ name: keychainaccess
 moduleid: ti.keychainaccess
 guid: f312643f-ed83-453a-b889-c914acdcb1f4
 platform: iphone
-minsdk: 1.6.0
+minsdk: 2.1.3.GA
